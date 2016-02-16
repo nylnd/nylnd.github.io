@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nylnd.github.io
+title: Tax/Code
+tagline: Training data science tools on tax/legal problems
+description: Chris is a tax lawyer at Wragge Lawrence Graham & Co LLP, with a keen interest in Scientific Python and in plain English
+paginate: 5
