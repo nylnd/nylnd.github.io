@@ -6,3 +6,5 @@ title: Tax/Code
 tagline: Training data science tools on tax/legal problems
 description: Chris is a UK-based tax lawyer and a frequent speaker on property tax issues.   In his spare time he muses about, tinkers with,  and creates software - and blogs about it in a personal capacity.  
 paginate: 5
+
+theme: jekyll-theme-cayman
