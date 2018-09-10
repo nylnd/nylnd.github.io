@@ -25,7 +25,7 @@ The process leaves a lot of the work to the person doing the calculation. This i
 
 The consequence is that people often have to undertake laborious manual calculations on paper to reconcile the differences between those two dates, and to determine the rent in each of the first five years of the lease - and only then can the relevant data be entered into HMRC's webapp and the NPV in question be determined.
 
-#2) Rent-frees: not hassle free
+# 2) Rent-frees: not hassle free
 
 Another particular 'pleasure' involved in getting to the basic data-entry is that there are, often, rent-free periods in leases. Again, in practical terms the HMRC webapp doesn't have any meaningful way to reduce rent payable by the amount of the rent-free period: again, you have to work it out yourself first. Typically this is done by working out the amount of rent that is ordinarily due, the number of days of the first year of the lease for which no rent is payable (manually, using a calendar, or perhaps alternatively using a website such as the excellent timeanddate.com).
 
